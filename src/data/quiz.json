@@ -1,0 +1,105 @@
+[
+    {
+        "id": "1",
+        "question": "2+2 = ?",
+        "options": [
+        {   "answer": "It will be 6",
+            "isCorrect": false
+        },
+
+        {
+            "answer":"It will be 3",
+            "isCorrect": false
+        },
+
+        {
+            "answer":"Yea Fo sho 4",
+            "isCorrect":false
+        },
+
+        { "answer":"It will be 5",
+            "isCorrect": true
+        }
+         ]
+    },
+    {
+        "id": "2",
+        "question": "Why is it raining?",
+        "options":[
+            {
+                "answer": "Because it is",
+                "isCorrect": true
+            },
+
+            {
+                "answer": "The sun is otuside",
+                "isCorrect": false
+            },
+
+            {
+                "answer": "The floor outside is wet",
+                "isCorrect": true
+            },
+
+            {
+                "answer":"The floor is outside",
+                "isCorrect":true
+            }
+        ]
+    },
+
+    {
+        "id": "3",
+        "question": "Are my nails long?",
+        "options":[
+            {
+                "answer": "They are long",
+                "isCorrect":true
+            },
+
+            {
+                "answer": "They are 1cm?",
+                "isCorrect":true
+            },
+
+            {
+                "answer":"They are 2cm?",
+                "isCorrect":true
+            },
+
+            {
+                "answer":"They are 3cm?",
+                "isCorrect":false
+            }
+        ]
+    },
+
+    {
+       "id": "4",
+       "question": "3+3=6",
+       "options" :[
+            {
+                "answer": "5",
+                "isCorrect":false
+            },
+
+            {
+                "answer": "4",
+                "isCorrect": false
+            },
+
+            {
+                "answer": "3",
+                "isCorrect": false
+            },
+
+            {
+                "answer":"6",
+                "isCorrect":true
+            }
+       ]
+    }
+
+    
+    
+]
